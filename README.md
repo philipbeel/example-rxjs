@@ -1,4 +1,4 @@
-### Cycle Friend Finder
+### Example RxJS UI
 
 Site  : [theodin.co.uk](http://theodin.co.uk/)<br/>
 Twitter : [@philipbeel](https://twitter.com/philipbeel)<br/>
@@ -16,3 +16,4 @@ To create a PIN application that:
 - Displays a success notification when all criteria has been met.
 
 
+	
