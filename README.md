@@ -1,10 +1,10 @@
 ### Example RxJS UI
 
-Site  : [theodin.co.uk](http://theodin.co.uk/)<br/>
+Post  : [http://theodin.co.uk/2016/10/08/programming-reactive-interfaces-with-rxjs/](http://theodin.co.uk/2016/10/08/programming-reactive-interfaces-with-rxjs/)<br/>
 Twitter : [@philipbeel](https://twitter.com/philipbeel)<br/>
 
 #### Description
-Example UI, implemented with RxJS.
+Example UI feature, implemented with RxJS.
 
 #### Business rules for UI
 To create a PIN application that:
