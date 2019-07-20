@@ -1,12 +1,14 @@
 ### Example RxJS UI
 
-Post  : [http://theodin.co.uk/2016/10/08/programming-reactive-interfaces-with-rxjs/](http://theodin.co.uk/2016/10/08/programming-reactive-interfaces-with-rxjs/)<br/>
+Post : [https://theodin.co.uk/programming-reactive-interfaces-with-rxjs/](https://theodin.co.uk/programming-reactive-interfaces-with-rxjs/)<br/>
 Twitter : [@philipbeel](https://twitter.com/philipbeel)<br/>
 
 #### Description
+
 Example UI feature, implemented with RxJS.
 
 #### Business rules for UI
+
 To create a PIN application that:
 
 - Accepts only numeric values from the keyboard.
@@ -14,6 +16,3 @@ To create a PIN application that:
 - Takes a maximum of 4 numeric values.
 - Updates the UI to display the user input values.
 - Displays a success notification when all criteria has been met.
-
-
-	
